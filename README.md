@@ -18,7 +18,7 @@ Managed databases in Java using the Hibernate ORM.
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ILoveHuBaBuBa&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Ukondy&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
   </tr>
 </table>
