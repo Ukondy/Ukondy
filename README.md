@@ -12,7 +12,7 @@ Managed databases in Java using the Hibernate ORM.
 * ✉️  You can contact me at [ukondy.basic@gmail.com](mailto:ukondy.basic@gmail.com)
 * 🧠  I'm learning Java Spring Framwork
 * 🕔  9:00(UTC)
-* 📱   My Number - +79771003974
+* 📱    My Number - +79771003974
 
 <b>My GitHub Stats</b>
 <table>
