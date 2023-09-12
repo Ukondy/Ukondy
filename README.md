@@ -8,11 +8,11 @@ I am a Java programmer, I have been studying this language for about 4 years, an
 About 1,500 thousand problems have been solved in JavaRush. I know the basics of web coding (HTML, CSS, JS, used the JSOUP library).
 Managed databases in Java using Hibernate ORM.
 
-* 🌍  I'm based in Russia, Moscow
-* ✉️  You can contact me at [ukondy.work@gmail.com](mailto:ukondy.work@gmail.com)
-* 🧠  I'm learning Java Spring Framwork
-* 🕔  9:00-9:00 (UTC+0)
-* 📱    My Number - +79771003974
+* 🌍 I'm based in Russia, Moscow
+* ✉️ You can contact me at [ukondy.work@gmail.com](mailto:ukondy.work@gmail.com)
+* 🧠 I'm learning Java Spring Framwork
+* 🕔 9:00-9:00 (UTC+0)
+* 📲  My Number +79771003974
 
 <b>My GitHub Stats</b>
 <table>
