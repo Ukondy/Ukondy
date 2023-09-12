@@ -9,7 +9,7 @@ Solved about 1500 thousand tasks on JavaRush.. Know the basics of web-design (HT
 Managed databases in Java using the Hibernate ORM.
 
 * 🌍  I'm based in Russia, Moscow
-* ✉️  You can contact me at [ukondy.basic@gmail.com](mailto:ukondy.work@gmail.com)
+* ✉️  You can contact me at [ukondy.work@gmail.com](mailto:ukondy.work@gmail.com)
 * 🧠  I'm learning Java Spring Framwork
 * 🕔  9:00(UTC)
 * 📱    My Number - +79771003974
