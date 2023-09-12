@@ -4,9 +4,9 @@ Hi 👋 My name is Dmitriy (nick Ukondy)
 Java Developer Full Stack
 -------------------------
 
-I'm the Java programmer have been studying this language for about 4 years as SQL (MySQL or PostgreSQL).</br>
-Solved about 1500 thousand tasks on JavaRush.. Know the basics of web-design (HTML, CSS, JS, used the JSOUP library). </br>
-Managed databases in Java using the Hibernate ORM.
+I am a Java programmer, I have been studying this language for about 4 years, and I also know databases such as SQL (MySQL or PostgreSQL).
+About 1,500 thousand problems have been solved in JavaRush. I know the basics of web coding (HTML, CSS, JS, used the JSOUP library).
+Managed databases in Java using Hibernate ORM.
 
 * 🌍  I'm based in Russia, Moscow
 * ✉️  You can contact me at [ukondy.work@gmail.com](mailto:ukondy.work@gmail.com)
