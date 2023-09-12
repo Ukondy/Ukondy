@@ -11,7 +11,7 @@ Managed databases in Java using Hibernate ORM.
 * 🌍  I'm based in Russia, Moscow
 * ✉️  You can contact me at [ukondy.work@gmail.com](mailto:ukondy.work@gmail.com)
 * 🧠  I'm learning Java Spring Framwork
-* 🕔  9:00(UTC)
+* 🕔  9:00-9:00 (UTC+0)
 * 📱    My Number - +79771003974
 
 <b>My GitHub Stats</b>
