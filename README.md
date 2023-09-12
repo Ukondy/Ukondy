@@ -26,7 +26,7 @@ Managed databases in Java using the Hibernate ORM.
 ### Socials
 <p align="left">  
   <a href="https://t.me/ukondy" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn-icons-png.flaticon.com/128/87/87413.png" width="32" height="32" />
+    <img src="https://img.icons8.com/?size=1x&id=63306&format=png" width="32" height="32" />
   </a> 
   <a href="https://www.linkedin.com/in/ukondy" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
