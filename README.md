@@ -4,7 +4,7 @@ Hi 👋 My name is Dmitriy (nick Ukondy)
 Java Developer Full Stack
 -------------------------
 
-I Java programmer have been studying this language for about 4 years as SQL (MySQL or PostgreSQL).</br>
+I'm the Java programmer have been studying this language for about 4 years as SQL (MySQL or PostgreSQL).</br>
 Solved about 1500 thousand tasks on JavaRush.. Know the basics of web-design (HTML, CSS, JS, used the JSOUP library). </br>
 Managed databases in Java using the Hibernate ORM.
 
@@ -26,10 +26,13 @@ Managed databases in Java using the Hibernate ORM.
 ### Socials
 <p align="left">  
   <a href="https://t.me/ukondy" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/?size=1x&id=63306&format=png" width="32" height="32" />
+    <img src="https://img.icons8.com/?size=1x&id=63306&format=png" width="37" height="37" />
   </a> 
   <a href="https://www.linkedin.com/in/ukondy" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
+    <img src="https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png" width="37" height="37" /> 
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100090713809909" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=1x&id=13912&format=png" width="37" height="37" /> 
   </a>
 </p>
 
