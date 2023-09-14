@@ -2,7 +2,7 @@ Hi 👋 My name is Dmitriy (nick Ukondy)
 ======================================
 
 Java Developer Full Stack
-------------------------- 
+-------------------------
 
 I am a Java programmer, I have been studying this language for about 4 years, and I also know databases such as SQL (MySQL or PostgreSQL).
 About 1,500 thousand problems have been solved in JavaRush. I know the basics of web coding (HTML, CSS, JS, used the JSOUP library).
