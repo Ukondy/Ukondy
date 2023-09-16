@@ -28,7 +28,7 @@ Managed databases in Java using Hibernate ORM.
   <a href="https://t.me/ukondy" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/?size=1x&id=63306&format=png" width="37" height="37" />
   </a> 
-  <a href="https://www.linkedin.com/in/ukondy" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/ukodny" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png" width="37" height="37" /> 
   </a>
   <a href="https://www.facebook.com/profile.php?id=100090713809909" target="_blank" rel="noreferrer">
